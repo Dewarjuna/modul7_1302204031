@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZFuBeaMrf5h33Yq0nc9JEyX9Wri1K+F/iY+tp3hNt2yvBlDinfvIiHg7cBZ83Np6cpaoX3IkWRANafcq/rLAeA==",
+  "dgSpecHash": "VYaFsOAYNGOkBbXQ8n1B26z5tNk3qHt7ioChDH6Jld8fBo3IuBFn0NqhDu73jbFqnQG6dqoi/IgkTO37DyhQZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dewa\\source\\repos\\modul7_1302204031\\modul7_1302204031\\modul7_1302204031.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dewa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
